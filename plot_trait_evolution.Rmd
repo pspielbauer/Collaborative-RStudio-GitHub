@@ -6,7 +6,6 @@ output:
   pdf_document: default
 ---
 
-
 > [**Beak and skull shapes in birds of prey ("raptors") are strongly coupled and largely controlled by size.**](http://eprints.whiterose.ac.uk/99452/1/Bright%20et%20al.%202016_SelfArchive.pdf)
 
 gif provided by the awesome **Jen Bright** [**\@MorphobeakGeek**](https://twitter.com/MorphobeakGeek)!
@@ -63,7 +62,6 @@ for(spp in spp.files){
 
 ```
 
-
 ### Plot trait evolution timeseries
 
 Use the data generated to plot all species.
@@ -109,7 +107,6 @@ if(length(gf) > 0){
   }
 }
 ```
-
 
 ### Session Info
 
